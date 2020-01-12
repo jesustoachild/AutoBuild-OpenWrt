@@ -2,7 +2,7 @@
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
 # Author: JesusToaChild, based on eSirPlayground's Build_OP_Newifi_D2.yml
-# Youtube Channel: https://goo.gl/fvkdwm 
+# eSirPlayground's Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
 name: Build_Phicomm-N1
